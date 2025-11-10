@@ -1,0 +1,1 @@
+This Python project is a Business Meeting Scheduler built using Tkinter and Matplotlib. It allows users to schedule, manage, and visualize meetings with validations for time, participants, and venue conflicts. The project includes graphical charts showing meeting trends for clear and efficient planning.
